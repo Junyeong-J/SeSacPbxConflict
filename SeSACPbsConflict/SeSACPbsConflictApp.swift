@@ -1,5 +1,5 @@
 //
-//  SeSACPbsConflictApp.swift
+//  SeSACPbxConflictApp.swift
 //  SeSACPbsConflict
 //
 //  Created by 전준영 on 10/8/24.
