@@ -51,7 +51,7 @@
 		72A3AAB82CB4CCF6005FBCDD /* SeSACPbsConflict */ = {
 			isa = PBXGroup;
 			children = (
-				72A3AAC72CB4D048005FBCDD /* Ethan */,
+				72A3AAC82CB4D1B8005FBCDD /* Jun */,
 				72A3AABF2CB4CCF8005FBCDD /* Preview Content */,
 			);
 			path = SeSACPbsConflict;
@@ -65,14 +65,14 @@
 			path = "Preview Content";
 			sourceTree = "<group>";
 		};
-		72A3AAC72CB4D048005FBCDD /* Ethan */ = {
+		72A3AAC82CB4D1B8005FBCDD /* Jun */ = {
 			isa = PBXGroup;
 			children = (
 				72A3AAB92CB4CCF6005FBCDD /* SeSACPbsConflictApp.swift */,
 				72A3AABB2CB4CCF6005FBCDD /* ContentView.swift */,
 				72A3AABD2CB4CCF8005FBCDD /* Assets.xcassets */,
 			);
-			path = Ethan;
+			path = Jun;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
